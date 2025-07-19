@@ -6,7 +6,7 @@ TabSage is an AI-powered browser extension that helps you stay focused and organ
 Whether you’re conducting research, comparing resources, or managing large browsing sessions, TabSage helps reduce cognitive overload by providing concise summaries and clear organization.
 
 Features
-	•	AI-generated summaries of active or selected tabs
-	•	Tab grouping based on content, topic, or browsing intent
-	•	Automatic documentation of browsing sessions for later reference
-	•	Quick notes and annotations tied to tabs or sessions
+	- AI-generated summaries of active or selected tabs
+	- Tab grouping based on content, topic, or browsing intent
+	- Automatic documentation of browsing sessions for later reference
+	- Quick notes and annotations tied to tabs or sessions
